@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.yunfeng.org</groupId>
-  <artifactId>storm_init</artifactId>
+  <artifactId>riprap</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>storm_init</name>
+  <name>riprap</name>
   <url>http://maven.apache.org</url>
 
   <properties>
