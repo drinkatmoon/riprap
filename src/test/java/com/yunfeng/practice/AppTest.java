@@ -1,4 +1,4 @@
-package com.yunfeng.org.storm;
+package com.yunfeng.practice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
